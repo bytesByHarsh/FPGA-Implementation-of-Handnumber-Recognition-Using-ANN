@@ -7,6 +7,8 @@ Implementation of Deep Learning and Machine Learning Algorithms is always a chal
 
 [hand_num_nn.vhd](hand_num_nn.vhd) is the IP core generated from Vivado HLS that can integrated in IP integrator.
 
+[main.cc](main.cc) file conains the sample code for running the IP on real hardware and testing the output.
+
 Refer [youtube link](https://www.youtube.com/watch?v=2EgtvmdpA6o) and [blog](http://www.harshmittal.co.in/tutorials/IEEE-2019/) for detailed explanation.
 
 ## Links
